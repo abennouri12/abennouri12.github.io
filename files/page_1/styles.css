@@ -38,8 +38,8 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:229px;
-  top:76px;
+  left:100px;
+  top:87px;
   width:733px;
   height:76px;
   display:flex;
@@ -84,8 +84,8 @@
 #u1 {
   border-width:0px;
   position:absolute;
-  left:301px;
-  top:273px;
+  left:172px;
+  top:284px;
   width:589px;
   height:207px;
   display:flex;
@@ -126,8 +126,8 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:311px;
-  top:1281px;
+  left:182px;
+  top:1292px;
   width:253px;
   height:99px;
   display:flex;
@@ -164,8 +164,8 @@
 #u3 {
   border-width:0px;
   position:absolute;
-  left:627px;
-  top:1281px;
+  left:498px;
+  top:1292px;
   width:253px;
   height:99px;
   display:flex;
@@ -188,8 +188,8 @@
 #u4 {
   border-width:0px;
   position:absolute;
-  left:635px;
-  top:589px;
+  left:506px;
+  top:600px;
   width:234px;
   height:177px;
   display:flex;
@@ -224,8 +224,8 @@
 #u5 {
   border-width:0px;
   position:absolute;
-  left:328px;
-  top:577px;
+  left:199px;
+  top:588px;
   width:177px;
   height:177px;
   display:flex;
@@ -260,8 +260,8 @@
 #u6 {
   border-width:0px;
   position:absolute;
-  left:562px;
-  top:885px;
+  left:433px;
+  top:896px;
   width:246px;
   height:230px;
   display:flex;
@@ -296,8 +296,8 @@
 #u7 {
   border-width:0px;
   position:absolute;
-  left:335px;
-  top:931px;
+  left:206px;
+  top:942px;
   width:177px;
   height:236px;
   display:flex;
@@ -324,47 +324,6 @@
   height:236px;
 }
 #u7_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u8_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1936px;
-  height:221px;
-  background:inherit;
-  background-color:rgba(234, 155, 165, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(234, 155, 165, 1);
-  border-radius:0px;
-  filter:drop-shadow(none);
-  transition:none;
-}
-#u8 {
-  border-width:0px;
-  position:absolute;
-  left:-372px;
-  top:1491px;
-  width:1936px;
-  height:221px;
-  display:flex;
-  transition:none;
-  transform-origin:50% 50%;
-}
-#u8 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u8_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
