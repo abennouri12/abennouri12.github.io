@@ -35,10 +35,30 @@ input[type=text]::-ms-clear {
 
 #outerContainer {
     position: absolute;
-    width:1000px;
-    height:1500px;
+    width: 100%;
+    max-width: 1000px;
+    height: 1500px;
+    left: 50%;
+    transform: translateX(-50%);
     overflow: hidden;
     display: flex;
+}
+
+@media (max-width: 420px) {
+    #outerContainer {
+        position: static;
+        transform: none;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+    #mainFrame {
+        position: relative;
+        display: block;
+        margin: 0 auto;
+        width: 100% !important;
+        height: auto !important;
+    }
 }
 
 #mobileControlFrameContainer {
